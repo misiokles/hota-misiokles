@@ -1,0 +1,23 @@
+{
+	"core:seerHut" : {
+		"types" : {
+			"hotaSeerHut" : {
+				"templates" : {
+					"AVXseec0H" : { "animation" : "seerHut/AVXseec0", 
+						"mask" : [ "VVV", "VBV", "VAV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+					},
+					"AVXseee0H" : { "animation" : "seerHut/AVXseee0", 
+						"mask" : [ "VVV", "VVV", "VAV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],		
+					},
+					"wt_seerh" : { "animation" : "seerHut/wt_seerh", 
+						"mask" : [ "VVV","BBB", "BAB" ], 
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "water" ] 
+					}
+				}
+			}
+		}
+	}	
+}

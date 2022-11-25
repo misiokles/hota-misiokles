@@ -1,0 +1,17 @@
+{
+	"core:libraryOfEnlightenment" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVSlibS0" : {
+						"animation" : "libraryOfEnlightenment/AVSlibS0",
+						"mask" : [ "VVVVV", "VBBBB", "VBBAB" ],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "snow" ]
+					}
+				}
+			}
+		}
+	}
+}
+

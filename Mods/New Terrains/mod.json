@@ -1,0 +1,47 @@
+{
+	"author" : "Hota Crew, ported by VCMI Team",
+	"contact" : "https://slack.vcmi.eu/",
+	"description" : "This option enables new terrains added by HotA Crew.",
+	"factions" : [ "config/hotaTerrains/confluxTerrain" ],
+	"objects" : [
+		"config/hotaTerrains/hotaHWLakes",
+		"config/hotaTerrains/hotaHWMountain",
+		"config/hotaTerrains/hotaHWaterfalls",
+		"config/hotaTerrains/hotaHFlowers",
+		"config/hotaTerrains/hotaPuddles",
+		"config/hotaTerrains/hotaSpruces",
+		"config/hotaTerrains/hotaStones",
+		"config/hotaTerrains/hotaCrater",
+		"config/hotaTerrains/hotaHole",
+		"config/hotaTerrains/hotaHWMines",
+		"config/hotaTerrains/hotaWHAbandonedMine",
+		"config/hotaTerrains/churchyardHL",
+		"config/hotaTerrains/ruins",
+		"config/hotaTerrains/obeliskOrange",
+		"config/hotaTerrains/hotaHWShrub",
+		"config/hotaTerrains/hotaHWCactus",
+		"config/hotaTerrains/hotaWHBones",
+		"config/hotaTerrains/hotaWDeadVegetation",
+		"config/hotaTerrains/hotaWTrees",
+		"config/hotaTerrains/hotaHWsigns",
+		"config/hotaTerrains/hotaGazebo",
+		"config/hotaTerrains/hotaDerrick"
+	],
+	"battlefields":
+	[
+		"config/hotaTerrains/battlefields.json"
+	],
+	"obstacles":
+	[
+		"config/hotaTerrains/obstacles.json"
+	],
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Mechanical",
+	"name" : "New terrains",
+	"version" : "1.1.0",
+	"compatibility" :
+	{
+		"min" : "1.1.0"
+	}
+}

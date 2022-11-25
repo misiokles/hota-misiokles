@@ -1,0 +1,16 @@
+{
+	"core:redwoodObservatory"	: {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"avwtobtw" : {
+						"animation" : "redwoodObservatory/avwtobtw",
+						"mask" : [ "VBV","VBV","VBA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "water" ]
+					}
+				}
+			}
+		}
+	}		
+}

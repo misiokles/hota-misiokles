@@ -1,0 +1,14 @@
+{
+	"core:deadVegetation" :{
+		"types" : {
+			"hotaDeadVegetation" : {
+				"templates" : {					
+					"swddtree" : { "animation" : "deadVegetation/swddtree", 
+					"mask" : ["VV","VV","BB"], 
+					"allowedTerrains": ["swamp"]					
+					}					
+				}
+			}			
+		}	
+	}
+}

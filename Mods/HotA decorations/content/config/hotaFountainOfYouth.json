@@ -1,0 +1,17 @@
+{
+	"core:fountainOfYouth"	: {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"watermag" : {
+						"animation" : "fountainOfYouth/watermag",
+						"mask" : [ "VBV","VAV","VVV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "water" ]
+					}
+				}
+			}
+		}
+	}		
+}
+

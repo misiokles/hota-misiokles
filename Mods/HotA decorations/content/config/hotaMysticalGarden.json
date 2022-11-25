@@ -1,0 +1,16 @@
+{
+	"core:mysticalGarden" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"avtmystd" : {
+						"animation" : "mysticalGarden/avtmystd", 
+						"mask" : [ "VBV","BAB" ],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "dirt" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"core:wagon" : {
+		"types" : {
+			"object" : {
+				"aiValue" : 500,
+				"templates" : {
+					"HATel" : {
+						"animation" : "wagon/HATel",
+						"mask" : [ "VV", "BA" ],
+						"visitableFrom" : [ "---", "-++", "+++" ]
+					}
+				}
+			}
+		}
+	}
+}

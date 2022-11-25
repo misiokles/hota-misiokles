@@ -1,0 +1,34 @@
+{
+	"highlands" :
+	{
+		"text" : "Highlands",
+		"moveCost" : 100,
+		"minimapUnblocked" : [  84, 121, 26 ],
+		"minimapBlocked"   : [ 41, 106, 20 ],
+		"music" : "HIGHLANDS.mp3",
+		"tiles" : "terrain/HGHLL",
+		"type": ["LAND", "SURFACE"], //default values
+		"horseSoundId" : 2,
+		"river" : "rw",
+		"rockTerrain":"rock",
+		"code" : "hl",
+//		"terrainViewPatterns" : "highlands",	
+		"battleFields" : ["highlands_flowers"]
+	},
+	"wasteland" :
+	{
+		"text":"Wasteland",
+		"moveCost" : 125,
+		"minimapUnblocked" : [ 180, 105, 39 ],
+		"minimapBlocked"   : [ 164, 86, 29 ],
+		"music" : "WASTELAND.mp3",
+		"tiles" : "terrain/WSTLD",
+		"type": ["LAND", "SURFACE"], //default values
+		"code":"ws",
+		"river" : "rm",
+		"rockTerrain":"rock",
+		"horseSoundId":5,
+//		"terrainViewPatterns" : "wasteland",	
+		"battleFields" : ["wasteland_rocks"]
+	}
+}

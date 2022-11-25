@@ -1,0 +1,18 @@
+{
+	"core:volcano" : {
+		"types" : {
+			"hotaVolcano" : {
+				"templates" : {
+					"AVLvol60" : { "animation" : "volcano/AVLvol60", 
+					"mask" : [ "VVVV","VBBB","VBBB" ], 
+                    "allowedTerrains": [ "lava" ]
+					}		
+				}			
+			}
+		}
+	}
+}	
+	
+
+
+	

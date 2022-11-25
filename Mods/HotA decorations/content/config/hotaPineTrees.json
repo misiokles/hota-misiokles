@@ -1,0 +1,23 @@
+{
+	"core:pineTrees" : {
+		"types" : {
+			"hotaPineTrees" : {
+			"templates" : {			
+					"avlpntr8" : { "animation" : "trees/avlpntr8",  
+					"mask" : [ "VV","VB" ], 
+                    "allowedTerrains": [ "grass", "dirt" ]
+					},
+					
+					"avlpntr9" : { "animation" : "trees/avlpntr9", 
+					"mask" : [ "VV","VB" ], 
+                    "allowedTerrains": [ "grass", "dirt" ]
+					}
+				}	
+			}					
+		}
+	}
+}	
+	
+
+
+	
