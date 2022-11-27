@@ -1,7 +1,7 @@
 {
 	"core:pineTrees" : {
 		"types" : {
-			"hotaPineTrees" : {
+			"object" : {
 			"templates" : {			
 					"avlpntr8" : { "animation" : "trees/avlpntr8",  
 					"mask" : [ "VV","VB" ], 

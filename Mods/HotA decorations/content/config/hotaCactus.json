@@ -1,7 +1,7 @@
 {
 	"core:cactus" : {
 		"types" : {
-			"hotaCactus" : {
+			"object" : {
 				"templates" : {
 				
 					"AVcact01" : { "animation" : "cactus/AVcact01", 

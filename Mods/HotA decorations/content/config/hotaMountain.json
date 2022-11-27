@@ -1,7 +1,7 @@
 {
 	"core:mountain" : {
 		"types" : {
-			"hotaMountains" : {
+			"object" : {
 				"templates" : {
 					"grsmnt00" : { "animation" : "mountains/grsmnt00", 
 					"mask" : [ "VVBBBV","VBBBBB","VBBBBB","VBBBVV" ], 		

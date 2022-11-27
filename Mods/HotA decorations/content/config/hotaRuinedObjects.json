@@ -7,7 +7,7 @@
 				"templates" : {
 					"avtcvrui" : { "animation" : "ruinedObjects/avtcvrui",
 					"mask" : ["VVVV","VBVV","VBBB"], 
-                    "allowedTerrains": [ "dirt "]
+                    "allowedTerrains": [ "dirt"]
 					}
 				}
 			}

@@ -11,7 +11,7 @@
 					
 					"avlyuc50" : { "animation" : "trees/avlyuc50", 
 					"mask" : [ "B" ], 
-					"allowedTerrains": [ "snad" ]
+					"allowedTerrains": [ "sand" ]
 					},
 					
 					"avlyuc60" : { "animation" : "trees/avlyuc60", 

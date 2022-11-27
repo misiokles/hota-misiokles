@@ -1,7 +1,7 @@
 {
 	"core:dirtHills" :{
 		"types" : {
-			"hotaDirtHills" : {
+			"object" : {
 				"templates" : {
 					
 					"avlndt01" : { "animation" : "dirtHills/avlndt01", 

@@ -1,8 +1,7 @@
 {
 	"core:favorableWinds" : {
 		"types" : {
-			"hotaFavorableWinds" : {
-//				"name" : "Favorable Winds",
+			"object" : {
 				"base" : { "zIndex": 100 },
 				"templates" : {
 					"FVWND00" : {
@@ -38,12 +37,13 @@
 						"animation" : "fvwnd07",						
 						"mask" : [ "VV", "VV","VV", "VV","VV"  ]
 					},
-					"zwat00" : {
-						"animation" : "zwat00", 						
+					
+					"zwat01" : {
+						"animation" : "zwat01", 						
 						"mask" : [ "VVVVVV", "VVVVVV","VVVVVV", "VVVVVV" ]
 					},
-					"zwat01" : {
-						"animation" : "zwat02",						
+					"zwat00" : {
+						"animation" : "zwat00",						
 						"mask" : [ "VVVVVVVV", "VVVVVVVV","VVVVVVVV", "VVVVVVVV","VVVVVVVV", "VVVVVVVV" ]
 					},
 					"zwat02" : {

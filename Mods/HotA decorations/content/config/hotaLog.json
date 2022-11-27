@@ -1,7 +1,7 @@
 {
 	"core:log"	: {
 		"types" : {
-			"hotaLog" : {
+			"object" : {
 				"templates" : {
 
 					"AVLlogdrt1" : { "animation" : "log/AVLlogdrt1", 

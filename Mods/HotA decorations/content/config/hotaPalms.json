@@ -1,10 +1,10 @@
 {
 	"hotaPalms" : {
-	"name" : "Palms",
-	"handler": "static",
+		"name" : "Palms",
+		"handler": "static",
 		"types" : {
 			"hotaPalms" : {
-			"templates" : {
+				"templates" : {
 					"AVLswn01" : { "animation" : "trees/AVLswn01",
 					"mask" : ["VBV","VBV"],
                     "allowedTerrains": ["swamp"]

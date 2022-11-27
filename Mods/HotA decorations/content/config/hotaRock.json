@@ -1,7 +1,7 @@
 {
 	"core:rock" :{
 		"types" : {		
-			"hotaRock" : {
+			"object" : {
 				"templates" : {
 		
 					"avlrfx01" : { "animation" : "rock/avlrfx01", 

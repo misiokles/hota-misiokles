@@ -1,7 +1,7 @@
 {
 	"core:flowers" : {
 		"types" : {
-			"hotaFlowers" : {
+			"object" : {
 				"templates" : {
 				
 					"swvflw01" : { "animation" : "flowers/swvflw01", 

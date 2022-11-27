@@ -45,10 +45,10 @@
 						"resources": [
 							{ "gems" : { "min": 3, "max" : 6} },
 						],
-						"message": "",
+						"message": "{Sea Barrel}\r\n\r\nThis barrel is holding neither water nor wine, but rather some smuggled goods.",
 					}
 				],
-				"onEmptyMessage": "Go away, jerk!",
+				"onEmptyMessage": "{Sea Barrel}\r\n\r\nThis barrel is full of sea water. You have no idea why it is still afloat.",
 				"visitMode" : "once",
 				"selectMode": "selectPlayer",
 				"templates" : {

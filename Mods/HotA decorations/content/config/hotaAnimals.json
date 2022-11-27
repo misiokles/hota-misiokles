@@ -1,9 +1,9 @@
 {
-	"hotaAnimals" :{
+	"hotaPig" :{
 		"handler" : "static",
+		"name" : "Pig",
 		"types" : {
 			"pig" : {
-				"name" : "Pig",
 				"sounds": {
 					"ambient": ["PIGSND.wav"]
 				},
@@ -13,9 +13,15 @@
 						"allowedTerrains": [ "grass", "dirt", "rough" ]
 					}
 				}
-			},
+			}
+		}
+	},
+	
+	"hotaChicken" :{
+		"handler" : "static",
+		"name" : "Chicken",
+		"types": {
 			"chicken" : {
-				"name" : "Chicken",
 				"sounds": {
 					"ambient": ["CHICK.wav"]
 				},
@@ -25,9 +31,15 @@
 						"allowedTerrains": [ "grass", "dirt", "rough" ]
 					}
 				}
-			},
+			}
+		}
+	},
+	
+	"hotaRooster" :{
+		"handler" : "static",
+		"name" : "Rooster",
+		"types" : {
 			"rooster" : {
-				"name" : "Rooster",
 				"sounds": {
 					"ambient": ["COCK.wav"]
 				},
@@ -37,9 +49,15 @@
 						"allowedTerrains": [ "grass", "dirt", "rough" ]
 					}
 				}
-			},
+			}
+		}
+	},
+	
+	"hotaFrogs" :{
+		"handler" : "static",
+		"name" : "Frogs",
+		"types" : {
 			"frogs" : {
-				"name" : "Frogs",
 				"sounds": {
 					"ambient": ["FROGS01.wav"]
 				},
@@ -49,9 +67,15 @@
 						"allowedTerrains": [ "swamp" ]
 					}
 				}
-			},
-			"frog" : {
-				"name" : "Frog",
+			}
+		}
+	},
+
+	"hotaFrog" :{
+		"handler" : "static",
+		"name" : "Frog",
+		"types" : {
+			"frog" : {			
 				"sounds": {
 					"ambient": ["FROGS02.wav"]
 				},

@@ -1,7 +1,7 @@
 {
 	"core:reef" :{
 		"types" : {		
-			"hotaReef" : {
+			"object" : {
 				"templates" : {
 				
 					"ZREEF1" : { "animation" : "reef/ZREEF1", 

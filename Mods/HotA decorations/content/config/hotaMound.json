@@ -1,7 +1,7 @@
 {
 	"core:mound" :{
 		"types" : {		
-			"hotaMound" : {
+			"object" : {
 				"templates" : {
 				
 					"avlsnh01" : { "animation" : "mound/avlsnh01", 
